@@ -1,0 +1,7 @@
+{
+	"projects":[
+		"logman-api",
+		"logman-core",
+		"logman-test"
+	]
+}

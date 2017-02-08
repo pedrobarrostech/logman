@@ -1,0 +1,4 @@
+{"Code":1111,"Description":"caiu o servidor","Type":1,"Date":"2017-01-18T10:49:26.2652244-02:00"} 
+
+{"Code":1,"Description":"caiu o servidor","Type":1,"Date":"2017-01-18T10:49:34.2094702-02:00"} 
+{"Code":12,"Description":"teste","Type":3,"Date":"2017-01-18T10:49:44.0802903-02:00"} 
